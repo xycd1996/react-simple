@@ -1,13 +1,13 @@
 {
-  "name": "react-simple",
-  "version": "1.0.0",
-  "description": "react simple app",
+  "name": "{{projectName}}",
+  "version": "{{version}}",
+  "description": "{{description}}",
   "main": "src/index.js",
   "scripts": {
     "start": "webpack-cli s --config build/webpack.dev.js",
     "build": "webpack-cli --config build/webpack.prod.js"
   },
-  "author": "kiter",
+  "author": "{{author}}",
   "license": "ISC",
   "dependencies": {
     "antd": "^4.7.2",
