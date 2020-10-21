@@ -1,5 +1,12 @@
+/*
+ * @Author: Cao_ming
+ * @Date: 2020-10-20 18:46:14
+ * @LastEditTime: 2020-10-21 15:47:31
+ * @LastEditors: Cao_ming
+ * @FilePath: \react-simple\src\views\Home.js
+ */
 import React, { Component, lazy, Suspense } from 'react'
-import styles from './home.module.less'
+import styles from './home.module.css'
 import Student from './cls'
 
 const Header = lazy(() => import('../components/Header'))

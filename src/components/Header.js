@@ -1,13 +1,13 @@
 /*
  * @Author: Cao_ming
  * @Date: 2020-10-20 14:50:30
- * @LastEditTime: 2020-10-20 16:34:37
+ * @LastEditTime: 2020-10-21 14:02:27
  * @LastEditors: Cao_ming
  * @FilePath: \react-simple\src\components\Header.js
  */
 import { Button } from 'antd'
 import React from 'react'
-import styles from './header.module.scss'
+import styles from './header.module.less'
 import Stu from './cls1'
 import Stu2 from './cls2'
 
